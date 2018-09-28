@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //asdadsadadsdsdsad
         main_my_view_1 = (MyView) findViewById(R.id.main_my_view_1);
         main_my_view_1.setContext(MainActivity.this);
 
